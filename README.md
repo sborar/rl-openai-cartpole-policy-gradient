@@ -1,7 +1,7 @@
-# rl-openai-cartpole-actor-critic
-Reinforcement Learning Actor Critic Agent for openai gym.
+# rl-openai-cartpole-policy-gradient
+Reinforcement Learning policy gradient Agent for openai gym.
 
-Agent.py contains the implementation of actor critic method.
+Agent.py contains the implementation of policy gradient method.
 
 Cartpole.py runs the cartpole environment episodes and updates the policy after every x number of timesteps.
 
