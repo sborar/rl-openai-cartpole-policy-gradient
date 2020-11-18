@@ -5,7 +5,7 @@ Agent.py contains the implementation of actor critic method.
 
 Cartpole.py runs the cartpole environment episodes and updates the policy after every x number of timesteps.
 
-Utils.py contains utility functions like x
+Utils.py contains utility functions.
 
-Report lists the approaches taken in this assignment and tries to answers explain osme observations.
+Report lists the approaches taken in this assignment and tries to answers explain some observations.
 
